@@ -1,7 +1,7 @@
 Steps:
 
 1) Clone the repository
-https://github.com/snehamaganahalli/huffman_coding_decoding.git
+git clone https://github.com/snehamaganahalli/huffman_coding_decoding.git
 
 2) Compile
 make
